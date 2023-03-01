@@ -1,2 +1,1 @@
-# This file intentionally left blank
-# see common info.json
+CAPS_WORD_ENABLE = yes
